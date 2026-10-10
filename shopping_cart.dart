@@ -1,3 +1,6 @@
+// Student: Farah Alhasan
+// Student Number: 21120205709
+
 // Week 2 Homework - Simple Shopping Cart Application
 // Run with: dart run shopping_cart.dart
 
